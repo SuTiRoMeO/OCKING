@@ -28,4 +28,4 @@
 
 <tbody>
 
-<td><a href=<img src="https://telegra.ph/OC-KING-OWNER-06-30" width="200" height="200" alt="SUTI ROMEO"></a></td>
+<td><a href=img src="https://telegra.ph/OC-KING-OWNER-06-30" width="200" height="200" alt="SUTI ROMEO"></a></td>
