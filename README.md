@@ -23,3 +23,10 @@
 [![Deploy]()]()
 
 ## OC KING TEAM
+
+<table>
+
+<tbody>
+
+<tr>
+<td><a href="httsp://github.com/SuTiRoMeO/"><img src="https://telegra.ph/OC-KING-OWNER-06-30" width="200" height="200" alt="Black Amda"></a></td>
