@@ -17,10 +17,10 @@
 </p> 
 
 ### QR CODE
-[![Run on Repl.it]()]()
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)]()
 
 ### Deploy Page
-[![Deploy]()]()
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
 
 ## OC KING TEAM
 
@@ -28,7 +28,4 @@
 
 <tbody>
 
-<tr>
-<td><a href="https://github.com/SuTiRoMeO/">
-<img src="https://telegra.ph/OC-KING-OWNER-06-30" width="200" height="200" alt="OC KING"></a>
-</td>
+<td><a href="https://duanf0484.wixsite.com/achi-bro-lk"><img src="https://telegra.ph/OC-KING-OWNER-06-30" width="200" height="200" alt="SUTI ROMEO"></a></td>
