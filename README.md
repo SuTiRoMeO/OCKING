@@ -29,6 +29,6 @@
 <tbody>
 
 <tr>
-<td><a href="https://github.com/SuTiRoMeO/OCKING/">
+<td><a href="https://github.com/SuTiRoMeO/">
 <img src="https://telegra.ph/OC-KING-OWNER-06-30" width="200" height="200" alt="OC KING"></a>
 </td>
