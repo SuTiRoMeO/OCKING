@@ -16,3 +16,8 @@
     <br>
 </p> 
 
+### QR CODE
+[![Run on Repl.it]()]()
+
+### Deploy Page
+[![Deploy]()]()
