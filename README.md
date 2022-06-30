@@ -10,11 +10,9 @@
 <h1>⎝🪙𝐎𝐂 𝐊𝐈𝐍𝐆🪙⎠ WhatsApp User Bot v1</h1>
 <p align="center">
     World best Sinhala WhatsApp Button Bot Developer SUTIROMEO Enjoy Our Bot
-    <br>
-        <a href="https://chat.whatsapp.com/D10YC3u4Fj1A6OJXVby63U">Whatsapp Support Group 01</a> |
-        <a href="https://www.youtube.com/c/SLOCSMARTBRO">Youtube Channel</a> |
-    <br>
-</p> 
+    
+<p align="center">
+a href="https://www.youtube.com/c/SLOCSMARTBRO"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)]()
@@ -25,5 +23,4 @@
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/94704296532"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/D10YC3u4Fj1A6OJXVby63U"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/c/SLOCSMARTBRO"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://chat.whatsapp.com/D10YC3u4Fj1A6OJXVby63U"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
