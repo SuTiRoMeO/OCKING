@@ -22,10 +22,8 @@
 ### Deploy Page
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
 
-## OC KING TEAM
-
-<table>
-
-<tbody>
-
-<td><a href=img src="https://telegra.ph/OC-KING-OWNER-06-30" width="200" height="200" alt="SUTI ROMEO"></a></td>
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/94704296532"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/D10YC3u4Fj1A6OJXVby63U"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/c/SLOCSMARTBRO"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
