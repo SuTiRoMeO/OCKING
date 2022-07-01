@@ -15,7 +15,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)]()
 
 ### Deploy Page
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/SuTiRoMeO/OCKING)
 
 ## ```Connect With Me```
 <p align="center">
