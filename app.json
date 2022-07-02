@@ -1,8 +1,9 @@
 {
     "name": " 𝐎𝐂 𝐊𝐈𝐍𝐆",
     "description": "OC KING is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "keywords": [ ]
     "logo": "https://telegra.ph/file/a01f5c108fd2fd15480ae.jpg",
-        "NEUTRO_SESSION": {
+        "OC_SESSION": {
             "description": "QR SESSION | Qr කේතය scan කළ පසුව ලැබෙන කේතයන්",
             "required": true
         },
